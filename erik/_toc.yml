@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: Fåglarna 🦜
+    chapters:
+    - file: faglarna/marta
+    - file: faglarna/putte
+  - caption: Fiskarna 🐟
+    chapters:
+    - file: fiskarna/vara_fiskar
+# chapters:
+# - file: markdown
+# - file: notebooks
+# - file: markdown-notebooks

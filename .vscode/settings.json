@@ -1,0 +1,11 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "cmd": "jupyter-book build erik/",
+                "match": ".*",
+                "isAsync": false
+            }
+        ]
+    }
+}
