@@ -44,3 +44,4 @@ sphinx:
       sidebar_hide_name: false
       navigation_with_keys: true
       # announcement: "This site is currently under construction 🤠"
+    language: sv
