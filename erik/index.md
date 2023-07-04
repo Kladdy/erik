@@ -1,6 +1,6 @@
 # Välkommen till Erik Sahakyans hemsida!
 
-Hejhej!👋
+Här kommer jag lägga upp lite allt möjligt i framtiden 😇
 
 ```{tableofcontents}
 ```
