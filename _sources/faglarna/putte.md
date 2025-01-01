@@ -1,6 +1,6 @@
 # Putte
 
-Vad äter han?
+## Vad äter han?
 
 - olika slag av nötter t.ex jordnötter
 - mandarin
@@ -10,7 +10,8 @@ Vad äter han?
 - banan
 - päron
 - äpple 
-Vad gör han?
+
+## Vad gör han?
 
 - dansar
 - äter

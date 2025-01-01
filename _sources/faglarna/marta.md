@@ -1,6 +1,6 @@
 # Märta
 
-Vad äter hon?
+## Vad äter hon?
 - äppelbitar
 - olikaslag av nötter t.ex jordnötter
 - apelsin
@@ -11,7 +11,7 @@ Vad äter hon?
 - päron
 - vattenmelon
 
-Vad gör hon?
+## Vad gör hon?
 - dansar
 - äter
 - vilar/sover
