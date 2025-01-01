@@ -1,11 +1,11 @@
 # Våra fiskar
 
-Vad äter dem?
+## Vad äter dem?
 
 - små maskar
 - någon smulig fiskmat
 
-Vad är det för slags fiskarter?
+## Vad är det för slags fiskarter?
 
 - 3 Skalarer
 - 3 Eldskärtar
@@ -14,7 +14,7 @@ Vad är det för slags fiskarter?
 
 Sammanlagt: 12 fiskar
 
-Vad gör dem?
+## Vad gör dem?
 
 - äter
 - vilar/sover
